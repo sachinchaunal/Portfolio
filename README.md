@@ -1,24 +1,43 @@
 # Prasunet_WD_04
 
+# Personal Portfolio Website
 
-🌟 **New Project Completed: Personal Portfolio Website** 🌟
+Welcome to my personal portfolio website! This project showcases my skills, projects, and accomplishments as a web developer. The website is designed to be visually appealing and user-friendly, with sections dedicated to my background, education, and professional experience.
 
-I'm excited to share that I have completed building my personal portfolio website! This project was a fantastic opportunity to showcase my skills, projects, and accomplishments as a web developer.
+## Table of Contents
 
-### 🛠️ **What I Built:**
-- **Home Page:** Featuring a captivating headline, a professional photo, and a summary of my skills.
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Contact](#contact)
+
+## Demo
+
+Check out the live demo of the website [here](https://sachinchaunal.github.io/Prasunet_WD_04/).
+
+## Features
+
+- **Home Page:** Captivating headline, professional photo, and summary of skills.
 - **About Me Section:** Detailed background, education, and professional experience.
+- **Projects Section:** Showcase of projects with descriptions and links to live demos and source code.
+- **Skills Section:** List of technical skills with proficiency levels.
+- **Contact Section:** Form to get in touch with me.
 
-### 🎨 **Design Highlights:**
-- Attractive and visually appealing layout to capture visitors' attention.
-- User-friendly navigation and responsive design for an optimal viewing experience on all devices.
+## Technologies Used
 
-### 💡 **Knowledge Gained:**
-- Enhanced my skills in HTML, CSS, JavaScript, and responsive web design.
-- Gained experience in creating a professional and aesthetically pleasing web presence.
-- Improved my ability to articulate my professional journey and present my projects effectively.
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
 
-Feel free to check out my portfolio and let me know what you think! Your feedback is always welcome.
+## Usage
 
-#Prasunet #WebDevelopment #Portfolio #FrontendDevelopment #HTML #CSS #JavaScript #ResponsiveDesign #ProfessionalGrowth
+Feel free to explore the different sections of the website to learn more about me and my work. If you have any feedback or suggestions, don't hesitate to reach out!
+
+## Contact
+
+If you have any questions or just want to connect, you can reach me at:
+- Email: sachinchaunal@gmail.com
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sachin-chaunal-0a510b242/))
