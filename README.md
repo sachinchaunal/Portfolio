@@ -40,4 +40,4 @@ Feel free to explore the different sections of the website to learn more about m
 
 If you have any questions or just want to connect, you can reach me at:
 - Email: sachinchaunal@gmail.com
-- LinkedIn: [sachinchaunal]([https://www.linkedin.com/in/sachin-chaunal-0a510b242/])
+- LinkedIn: [https://www.linkedin.com/in/sachin-chaunal-0a510b242/]([https://www.linkedin.com/in/sachin-chaunal-0a510b242/])
