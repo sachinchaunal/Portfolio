@@ -1,5 +1,3 @@
-# Prasunet_WD_04
-
 # Personal Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and accomplishments as a web developer. The website is designed to be visually appealing and user-friendly, with sections dedicated to my background, education, and professional experience.
@@ -14,7 +12,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Demo
 
-Check out the live demo of the website [here](https://sachinchaunal.github.io/Prasunet_WD_04/).
+Check out the live demo of the website [here](https://sachinchaunal.github.io/Portfolio/).
 
 ## Features
 
